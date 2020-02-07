@@ -17,4 +17,5 @@ These are my recommendations for improving your software development workflow.
 
 ## Tips & tricks
 - Set up linting (flake8, pylint) and autoformatting (Black, of course) upon save in VS Code
+- If you are unfamiliar with Git and GitHub, read [this](https://git-scm.com/book/en/v2)
 - If you use Windows, **don't**
