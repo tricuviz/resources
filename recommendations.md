@@ -13,6 +13,7 @@ These are my recommendations for improving your software development workflow.
 - Sharing Jupyter Notebooks: [nbviewer](https://nbviewer.jupyter.org)
 - How to write Git commits: do [this](https://chris.beams.io/posts/git-commit/)
 - How to format Python code: [black](https://black.readthedocs.io/en/stable/) (so much better than `autopep8`)
+- Write internal documents in Markdown: [tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
 ## Tips & tricks
 - Set up linting (flake8, pylint) and autoformatting (Black, of course) upon save in VS Code
